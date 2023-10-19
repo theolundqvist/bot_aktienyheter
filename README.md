@@ -13,6 +13,9 @@ Check it out at: https://t.me/aktienyheter_bot
 </p>
  <img src="https://github.com/theolundqvist/images_for_readme/blob/main/aktienyheter_1.jpg" width="400" />
 
+## Disclaimer
+Pretty shit code ngl
+
 ## Updates
 
 ### hotfix 1 2023
